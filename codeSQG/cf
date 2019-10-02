@@ -1,0 +1,4 @@
+#!/bin/csh
+#cc -c -O4 dstdct_w.c ftsin_wrap.c fft2d.c   -mno-underscores  
+gfortran -O4 -g *.f -lm  
+
