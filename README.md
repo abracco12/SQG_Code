@@ -14,3 +14,4 @@ paran.h sets resolution parameters
 Allows for beta (tested) and Coriolis f (not tested in
 SQG configuration)
 
+doi: https://zenodo.org/badge/latestdoi/212413154
